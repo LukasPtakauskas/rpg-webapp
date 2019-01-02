@@ -1,0 +1,1826 @@
+Year: 9066
+Moons: Luna
+
+January
+
+     1  Sunday      (    
+     2  Monday      (    
+     3  Tuesday     (    
+     4  Wednesday    -   Meteor shower
+     5  Thursday     -   
+     6  Friday       -   
+     7  Saturday     -   
+
+     8  Sunday        )  
+     9  Monday        )  Evening star
+    10  Tuesday       )  
+    11  Wednesday     )  
+    12  Thursday     [)  
+    13  Friday       [)  
+    14  Saturday     [)  
+
+    15  Sunday      +[)  
+    16  Monday      +[)  
+    17  Tuesday     +[)  
+    18  Wednesday   +[)  
+    19  Thursday    (+)  
+    20  Friday      (+)  Evening star
+    21  Saturday    (+)  Evening star
+
+    22  Sunday      (+)  
+    23  Monday      (]+  
+    24  Tuesday     (]+  Evening star
+    25  Wednesday   (]+  Evening star
+    26  Thursday    (]   Morning star
+    27  Friday      (]   
+    28  Saturday    (]   
+
+    29  Sunday      (]   Shooting star
+    30  Monday      (    
+    31  Tuesday     (    
+
+February
+
+     1  Wednesday   (    
+     2  Thursday    (    
+     3  Friday       -   Evening star
+     4  Saturday     -   
+
+     5  Sunday       -   Evening star
+     6  Monday        )  
+     7  Tuesday       )  
+     8  Wednesday     )  
+     9  Thursday      )  
+    10  Friday       [)  
+    11  Saturday     [)  Morning star
+
+    12  Sunday       [)  
+    13  Monday       [)  Aurora
+    14  Tuesday     +[)  
+    15  Wednesday   +[)  
+    16  Thursday    +[)  Wanderers gather
+    17  Friday      +[)  
+    18  Saturday    (+)  
+
+    19  Sunday      (+)  
+    20  Monday      (+)  
+    21  Tuesday     (]+  
+    22  Wednesday   (]+  
+    23  Thursday    (]+  
+    24  Friday      (]+  
+    25  Saturday    (]   
+
+    26  Sunday      (]   
+    27  Monday      (]   Aurora
+    28  Tuesday     (]   
+
+March
+
+     1  Wednesday   (    
+     2  Thursday    (    
+     3  Friday      (    Morning star
+     4  Saturday     -   
+
+     5  Sunday       -   Morning star
+     6  Monday       -   
+     7  Tuesday      -   
+     8  Wednesday     )  
+     9  Thursday      )  
+    10  Friday        )  
+    11  Saturday      )  Shooting star
+
+    12  Sunday       [)  
+    13  Monday       [)  
+    14  Tuesday      [)  Eclipse of Luna
+    15  Wednesday   +[)  
+    16  Thursday    +[)  
+    17  Friday      +[)  
+    18  Saturday    +[)  Morning star
+
+    19  Sunday      (+)  
+    20  Monday      (+)  
+    21  Tuesday     (+)  Meteor shower
+    22  Wednesday   (+)  
+    23  Thursday    (]+  
+    24  Friday      (]+  
+    25  Saturday    (]+  
+
+    26  Sunday      (]   Evening star
+    27  Monday      (]   Fireball
+    28  Tuesday     (]   Meteor shower
+    29  Wednesday   (]   Meteor shower
+    30  Thursday    (    
+    31  Friday      (    
+
+April
+
+     1  Saturday    (    
+
+     2  Sunday      (    Shooting star
+     3  Monday       -   Shooting star
+     4  Tuesday      -   Shooting star
+     5  Wednesday    -   
+     6  Thursday     -   
+     7  Friday        )  
+     8  Saturday      )  Shooting star
+
+     9  Sunday        )  
+    10  Monday       [)  
+    11  Tuesday      [)  Evening star
+    12  Wednesday    [)  
+    13  Thursday     [)  
+    14  Friday      +[)  
+    15  Saturday    +[)  
+
+    16  Sunday      +[)  
+    17  Monday      +[)  Comet appears
+    18  Tuesday     (+)  Solar eclipse
+    19  Wednesday   (+)  
+    20  Thursday    (+)  
+    21  Friday      (]+  
+    22  Saturday    (]+  
+
+    23  Sunday      (]+  Meteor shower
+    24  Monday      (]+  
+    25  Tuesday     (]   
+    26  Wednesday   (]   
+    27  Thursday    (]   
+    28  Friday      (]   Shooting star
+    29  Saturday    (    
+
+    30  Sunday      (    Shooting star
+
+May
+
+     1  Monday      (    
+     2  Tuesday      -   
+     3  Wednesday    -   Eclipse of Luna
+     4  Thursday     -   Eclipse of Luna
+     5  Friday       -   
+     6  Saturday      )  
+
+     7  Sunday        )  Fireball
+     8  Monday        )  
+     9  Tuesday       )  Evening star
+    10  Wednesday    [)  
+    11  Thursday     [)  
+    12  Friday       [)  
+    13  Saturday    +[)  
+
+    14  Sunday      +[)  
+    15  Monday      +[)  
+    16  Tuesday     +[)  
+    17  Wednesday   (+)  
+    18  Thursday    (+)  
+    19  Friday      (+)  
+    20  Saturday    (+)  Shooting star
+
+    21  Sunday      (]+  
+    22  Monday      (]+  
+    23  Tuesday     (]+  
+    24  Wednesday   (]+  Meteor shower
+    25  Thursday    (]   
+    26  Friday      (]   
+    27  Saturday    (]   
+
+    28  Sunday      (    
+    29  Monday      (    
+    30  Tuesday     (    
+    31  Wednesday   (    
+
+June
+
+     1  Thursday     -   
+     2  Friday       -   Comet appears
+     3  Saturday     -   
+
+     4  Sunday       -   Meteor shower
+     5  Monday        )  Meteor shower
+     6  Tuesday       )  Fireball
+     7  Wednesday     )  Eclipse of Luna
+     8  Thursday     [)  
+     9  Friday       [)  
+    10  Saturday     [)  
+
+    11  Sunday       [)  Shooting star
+    12  Monday      +[)  
+    13  Tuesday     +[)  
+    14  Wednesday   +[)  
+    15  Thursday    +[)  
+    16  Friday      (+)  
+    17  Saturday    (+)  Solar eclipse
+
+    18  Sunday      (+)  Morning star
+    19  Monday      (]+  
+    20  Tuesday     (]+  
+    21  Wednesday   (]+  
+    22  Thursday    (]+  
+    23  Friday      (]   
+    24  Saturday    (]   Shooting star
+
+    25  Sunday      (]   
+    26  Monday      (]   
+    27  Tuesday     (    
+    28  Wednesday   (    
+    29  Thursday    (    Meteor shower
+    30  Friday       -   
+
+July
+
+     1  Saturday     -   
+
+     2  Sunday       -   
+     3  Monday       -   
+     4  Tuesday       )  
+     5  Wednesday     )  
+     6  Thursday      )  
+     7  Friday        )  Evening star
+     8  Saturday     [)  
+
+     9  Sunday       [)  
+    10  Monday       [)  
+    11  Tuesday     +[)  
+    12  Wednesday   +[)  
+    13  Thursday    +[)  Morning star
+    14  Friday      +[)  
+    15  Saturday    (+)  
+
+    16  Sunday      (+)  
+    17  Monday      (+)  
+    18  Tuesday     (+)  
+    19  Wednesday   (]+  
+    20  Thursday    (]+  
+    21  Friday      (]+  Aurora
+    22  Saturday    (]+  
+
+    23  Sunday      (]   
+    24  Monday      (]   
+    25  Tuesday     (]   Eclipse of Luna
+    26  Wednesday   (    Morning star
+    27  Thursday    (    Evening star
+    28  Friday      (    
+    29  Saturday    (    
+
+    30  Sunday       -   
+    31  Monday       -   Evening star
+
+August
+
+     1  Tuesday      -   Evening star
+     2  Wednesday    -   
+     3  Thursday      )  
+     4  Friday        )  
+     5  Saturday      )  Shooting star
+
+     6  Sunday       [)  Evening star
+     7  Monday       [)  
+     8  Tuesday      [)  
+     9  Wednesday    [)  
+    10  Thursday    +[)  
+    11  Friday      +[)  
+    12  Saturday    +[)  
+
+    13  Sunday      +[)  
+    14  Monday      (+)  
+    15  Tuesday     (+)  
+    16  Wednesday   (+)  Shooting star
+    17  Thursday    (]+  Morning star
+    18  Friday      (]+  
+    19  Saturday    (]+  Meteor shower
+
+    20  Sunday      (]+  
+    21  Monday      (]   
+    22  Tuesday     (]   
+    23  Wednesday   (]   
+    24  Thursday    (]   Shooting star
+    25  Friday      (    
+    26  Saturday    (    Shooting star
+
+    27  Sunday      (    Morning star
+    28  Monday       -   
+    29  Tuesday      -   
+    30  Wednesday    -   Aurora
+    31  Thursday     -   
+
+September
+
+     1  Friday        )  Evening star
+     2  Saturday      )  
+
+     3  Sunday        )  
+     4  Monday        )  
+     5  Tuesday      [)  
+     6  Wednesday    [)  Aurora
+     7  Thursday     [)  Evening star
+     8  Friday       [)  
+     9  Saturday    +[)  
+
+    10  Sunday      +[)  
+    11  Monday      +[)  
+    12  Tuesday     (+)  
+    13  Wednesday   (+)  
+    14  Thursday    (+)  
+    15  Friday      (+)  
+    16  Saturday    (]+  
+
+    17  Sunday      (]+  
+    18  Monday      (]+  Evening star
+    19  Tuesday     (]+  
+    20  Wednesday   (]   
+    21  Thursday    (]   
+    22  Friday      (]   
+    23  Saturday    (    
+
+    24  Sunday      (    
+    25  Monday      (    
+    26  Tuesday     (    
+    27  Wednesday    -   
+    28  Thursday     -   Meteor shower
+    29  Friday       -   Meteor shower
+    30  Saturday     -   Aurora
+
+October
+
+     1  Sunday        )  Morning star
+     2  Monday        )  Fireball
+     3  Tuesday       )  
+     4  Wednesday    [)  
+     5  Thursday     [)  Morning star
+     6  Friday       [)  
+     7  Saturday     [)  Shooting star
+
+     8  Sunday      +[)  
+     9  Monday      +[)  Comet appears
+    10  Tuesday     +[)  
+    11  Wednesday   +[)  Meteor shower
+    12  Thursday    (+)  
+    13  Friday      (+)  Fireball
+    14  Saturday    (+)  
+
+    15  Sunday      (]+  
+    16  Monday      (]+  
+    17  Tuesday     (]+  
+    18  Wednesday   (]+  
+    19  Thursday    (]   Morning star
+    20  Friday      (]   Shooting star
+    21  Saturday    (]   
+
+    22  Sunday      (]   
+    23  Monday      (    
+    24  Tuesday     (    Solar eclipse
+    25  Wednesday   (    Shooting star
+    26  Thursday    (    
+    27  Friday       -   
+    28  Saturday     -   
+
+    29  Sunday       -   
+    30  Monday        )  
+    31  Tuesday       )  
+
+November
+
+     1  Wednesday     )  
+     2  Thursday      )  
+     3  Friday       [)  
+     4  Saturday     [)  
+
+     5  Sunday       [)  
+     6  Monday       [)  
+     7  Tuesday     +[)  
+     8  Wednesday   +[)  
+     9  Thursday    +[)  
+    10  Friday      (+)  Evening star
+    11  Saturday    (+)  
+
+    12  Sunday      (+)  
+    13  Monday      (+)  
+    14  Tuesday     (]+  
+    15  Wednesday   (]+  
+    16  Thursday    (]+  
+    17  Friday      (]+  
+    18  Saturday    (]   
+
+    19  Sunday      (]   
+    20  Monday      (]   
+    21  Tuesday     (    
+    22  Wednesday   (    
+    23  Thursday    (    
+    24  Friday      (    Aurora
+    25  Saturday     -   Eclipse of Luna
+
+    26  Sunday       -   Shooting star
+    27  Monday       -   
+    28  Tuesday      -   Eclipse of Luna
+    29  Wednesday     )  
+    30  Thursday      )  Shooting star
+
+December
+
+     1  Friday        )  
+     2  Saturday     [)  Shooting star
+
+     3  Sunday       [)  Shooting star
+     4  Monday       [)  
+     5  Tuesday      [)  
+     6  Wednesday   +[)  
+     7  Thursday    +[)  Wanderers gather
+     8  Friday      +[)  Wanderers gather
+     9  Saturday    +[)  
+
+    10  Sunday      (+)  
+    11  Monday      (+)  Fireball
+    12  Tuesday     (+)  
+    13  Wednesday   (+)  
+    14  Thursday    (]+  
+    15  Friday      (]+  Morning star
+    16  Saturday    (]+  
+
+    17  Sunday      (]   Solar eclipse
+    18  Monday      (]   
+    19  Tuesday     (]   Evening star
+    20  Wednesday   (]   
+    21  Thursday    (    
+    22  Friday      (    
+    23  Saturday    (    Shooting star
+
+    24  Sunday      (    
+    25  Monday       -   Wanderers gather
+    26  Tuesday      -   
+    27  Wednesday    -   
+    28  Thursday      )  
+    29  Friday        )  Shooting star
+    30  Saturday      )  
+
+    31  Sunday        )  Shooting star
+
+
+Year: 9067
+Moons: Luna
+
+January
+
+     1  Monday       [)  Aurora
+     2  Tuesday      [)  
+     3  Wednesday    [)  
+     4  Thursday    +[)  
+     5  Friday      +[)  
+     6  Saturday    +[)  Meteor shower
+
+     7  Sunday      (+)  
+     8  Monday      (+)  
+     9  Tuesday     (+)  Wanderers gather
+    10  Wednesday   (+)  
+    11  Thursday    (]+  
+    12  Friday      (]+  
+    13  Saturday    (]+  Shooting star
+
+    14  Sunday      (]+  Shooting star
+    15  Monday      (]   
+    16  Tuesday     (]   Evening star
+    17  Wednesday   (]   
+    18  Thursday    (    
+    19  Friday      (    
+    20  Saturday    (    
+
+    21  Sunday      (    
+    22  Monday       -   
+    23  Tuesday      -   
+    24  Wednesday    -   Shooting star
+    25  Thursday     -   Fireball
+    26  Friday        )  Eclipse of Luna
+    27  Saturday      )  
+
+    28  Sunday        )  
+    29  Monday        )  
+    30  Tuesday      [)  
+    31  Wednesday    [)  
+
+February
+
+     1  Thursday     [)  
+     2  Friday      +[)  
+     3  Saturday    +[)  
+
+     4  Sunday      +[)  
+     5  Monday      +[)  
+     6  Tuesday     (+)  
+     7  Wednesday   (+)  
+     8  Thursday    (+)  Morning star
+     9  Friday      (+)  
+    10  Saturday    (]+  Morning star
+
+    11  Sunday      (]+  
+    12  Monday      (]+  
+    13  Tuesday     (]   Shooting star
+    14  Wednesday   (]   
+    15  Thursday    (]   Comet appears
+    16  Friday      (]   
+    17  Saturday    (    
+
+    18  Sunday      (    Morning star
+    19  Monday      (    
+    20  Tuesday     (    
+    21  Wednesday    -   
+    22  Thursday     -   Meteor shower
+    23  Friday       -   Morning star
+    24  Saturday      )  
+
+    25  Sunday        )  
+    26  Monday        )  Shooting star
+    27  Tuesday       )  
+    28  Wednesday    [)  
+
+March
+
+     1  Thursday     [)  
+     2  Friday       [)  
+     3  Saturday     [)  
+
+     4  Sunday      +[)  
+     5  Monday      +[)  Fireball
+     6  Tuesday     +[)  
+     7  Wednesday   (+)  
+     8  Thursday    (+)  Shooting star
+     9  Friday      (+)  
+    10  Saturday    (+)  
+
+    11  Sunday      (]+  Evening star
+    12  Monday      (]+  
+    13  Tuesday     (]+  
+    14  Wednesday   (]+  
+    15  Thursday    (]   
+    16  Friday      (]   Shooting star
+    17  Saturday    (]   
+
+    18  Sunday      (    
+    19  Monday      (    Morning star
+    20  Tuesday     (    
+    21  Wednesday   (    Shooting star
+    22  Thursday     -   
+    23  Friday       -   
+    24  Saturday     -   
+
+    25  Sunday       -   
+    26  Monday        )  
+    27  Tuesday       )  
+    28  Wednesday     )  
+    29  Thursday      )  Evening star
+    30  Friday       [)  
+    31  Saturday     [)  
+
+April
+
+     1  Sunday       [)  
+     2  Monday      +[)  
+     3  Tuesday     +[)  
+     4  Wednesday   +[)  Solar eclipse
+     5  Thursday    +[)  
+     6  Friday      (+)  Shooting star
+     7  Saturday    (+)  
+
+     8  Sunday      (+)  Evening star
+     9  Monday      (+)  
+    10  Tuesday     (]+  
+    11  Wednesday   (]+  
+    12  Thursday    (]+  
+    13  Friday      (]   
+    14  Saturday    (]   Evening star
+
+    15  Sunday      (]   
+    16  Monday      (]   Shooting star
+    17  Tuesday     (    
+    18  Wednesday   (    Morning star
+    19  Thursday    (    
+    20  Friday      (    
+    21  Saturday     -   
+
+    22  Sunday       -   
+    23  Monday       -   Comet appears
+    24  Tuesday       )  
+    25  Wednesday     )  
+    26  Thursday      )  Fireball
+    27  Friday        )  Shooting star
+    28  Saturday     [)  
+
+    29  Sunday       [)  Eclipse of Luna
+    30  Monday       [)  
+
+May
+
+     1  Tuesday      [)  
+     2  Wednesday   +[)  
+     3  Thursday    +[)  Solar eclipse
+     4  Friday      +[)  
+     5  Saturday    (+)  
+
+     6  Sunday      (+)  
+     7  Monday      (+)  
+     8  Tuesday     (+)  
+     9  Wednesday   (]+  
+    10  Thursday    (]+  
+    11  Friday      (]+  
+    12  Saturday    (]+  
+
+    13  Sunday      (]   
+    14  Monday      (]   Fireball
+    15  Tuesday     (]   
+    16  Wednesday   (]   
+    17  Thursday    (    Evening star
+    18  Friday      (    
+    19  Saturday    (    
+
+    20  Sunday       -   
+    21  Monday       -   Morning star
+    22  Tuesday      -   Solar eclipse
+    23  Wednesday    -   
+    24  Thursday      )  
+    25  Friday        )  
+    26  Saturday      )  Shooting star
+
+    27  Sunday        )  
+    28  Monday       [)  Meteor shower
+    29  Tuesday      [)  Evening star
+    30  Wednesday    [)  
+    31  Thursday    +[)  Aurora
+
+June
+
+     1  Friday      +[)  
+     2  Saturday    +[)  
+
+     3  Sunday      +[)  
+     4  Monday      (+)  Shooting star
+     5  Tuesday     (+)  Eclipse of Luna
+     6  Wednesday   (+)  Morning star
+     7  Thursday    (+)  Wanderers gather
+     8  Friday      (]+  
+     9  Saturday    (]+  Eclipse of Luna
+
+    10  Sunday      (]+  Morning star
+    11  Monday      (]   
+    12  Tuesday     (]   
+    13  Wednesday   (]   Aurora
+    14  Thursday    (]   Wanderers gather
+    15  Friday      (    
+    16  Saturday    (    
+
+    17  Sunday      (    
+    18  Monday      (    Fireball
+    19  Tuesday      -   
+    20  Wednesday    -   Shooting star
+    21  Thursday     -   
+    22  Friday        )  
+    23  Saturday      )  Solar eclipse
+
+    24  Sunday        )  Solar eclipse
+    25  Monday        )  Shooting star
+    26  Tuesday      [)  
+    27  Wednesday    [)  Shooting star
+    28  Thursday     [)  
+    29  Friday       [)  Evening star
+    30  Saturday    +[)  
+
+July
+
+     1  Sunday      +[)  
+     2  Monday      +[)  
+     3  Tuesday     +[)  Aurora
+     4  Wednesday   (+)  Evening star
+     5  Thursday    (+)  
+     6  Friday      (+)  
+     7  Saturday    (]+  Aurora
+
+     8  Sunday      (]+  Eclipse of Luna
+     9  Monday      (]+  Evening star
+    10  Tuesday     (]+  
+    11  Wednesday   (]   
+    12  Thursday    (]   Meteor shower
+    13  Friday      (]   
+    14  Saturday    (]   
+
+    15  Sunday      (    
+    16  Monday      (    Shooting star
+    17  Tuesday     (    
+    18  Wednesday    -   
+    19  Thursday     -   
+    20  Friday       -   Comet appears
+    21  Saturday     -   Morning star
+
+    22  Sunday        )  
+    23  Monday        )  
+    24  Tuesday       )  Morning star
+    25  Wednesday     )  
+    26  Thursday     [)  Morning star
+    27  Friday       [)  
+    28  Saturday     [)  
+
+    29  Sunday      +[)  
+    30  Monday      +[)  
+    31  Tuesday     +[)  
+
+August
+
+     1  Wednesday   +[)  
+     2  Thursday    (+)  
+     3  Friday      (+)  Evening star
+     4  Saturday    (+)  Comet appears
+
+     5  Sunday      (+)  
+     6  Monday      (]+  
+     7  Tuesday     (]+  
+     8  Wednesday   (]+  
+     9  Thursday    (]   
+    10  Friday      (]   
+    11  Saturday    (]   Eclipse of Luna
+
+    12  Sunday      (]   
+    13  Monday      (    
+    14  Tuesday     (    
+    15  Wednesday   (    
+    16  Thursday    (    
+    17  Friday       -   Shooting star
+    18  Saturday     -   
+
+    19  Sunday       -   
+    20  Monday       -   Shooting star
+    21  Tuesday       )  
+    22  Wednesday     )  
+    23  Thursday      )  
+    24  Friday       [)  Evening star
+    25  Saturday     [)  
+
+    26  Sunday       [)  
+    27  Monday       [)  Fireball
+    28  Tuesday     +[)  Shooting star
+    29  Wednesday   +[)  
+    30  Thursday    +[)  
+    31  Friday      +[)  
+
+September
+
+     1  Saturday    (+)  Shooting star
+
+     2  Sunday      (+)  
+     3  Monday      (+)  
+     4  Tuesday     (]+  
+     5  Wednesday   (]+  Shooting star
+     6  Thursday    (]+  
+     7  Friday      (]+  Morning star
+     8  Saturday    (]   Eclipse of Luna
+
+     9  Sunday      (]   
+    10  Monday      (]   
+    11  Tuesday     (]   
+    12  Wednesday   (    Comet appears
+    13  Thursday    (    
+    14  Friday      (    Morning star
+    15  Saturday     -   
+
+    16  Sunday       -   
+    17  Monday       -   Shooting star
+    18  Tuesday      -   
+    19  Wednesday     )  Evening star
+    20  Thursday      )  
+    21  Friday        )  
+    22  Saturday      )  Meteor shower
+
+    23  Sunday       [)  Shooting star
+    24  Monday       [)  
+    25  Tuesday      [)  Fireball
+    26  Wednesday   +[)  
+    27  Thursday    +[)  Shooting star
+    28  Friday      +[)  Shooting star
+    29  Saturday    +[)  Evening star
+
+    30  Sunday      (+)  
+
+October
+
+     1  Monday      (+)  Shooting star
+     2  Tuesday     (+)  Evening star
+     3  Wednesday   (+)  Evening star
+     4  Thursday    (]+  
+     5  Friday      (]+  
+     6  Saturday    (]+  
+
+     7  Sunday      (]+  
+     8  Monday      (]   
+     9  Tuesday     (]   
+    10  Wednesday   (]   
+    11  Thursday    (    
+    12  Friday      (    
+    13  Saturday    (    
+
+    14  Sunday      (    
+    15  Monday       -   
+    16  Tuesday      -   
+    17  Wednesday    -   Shooting star
+    18  Thursday     -   
+    19  Friday        )  
+    20  Saturday      )  
+
+    21  Sunday        )  
+    22  Monday       [)  
+    23  Tuesday      [)  Morning star
+    24  Wednesday    [)  
+    25  Thursday     [)  
+    26  Friday      +[)  
+    27  Saturday    +[)  
+
+    28  Sunday      +[)  
+    29  Monday      +[)  
+    30  Tuesday     (+)  Shooting star
+    31  Wednesday   (+)  Fireball
+
+November
+
+     1  Thursday    (+)  Fireball
+     2  Friday      (]+  
+     3  Saturday    (]+  
+
+     4  Sunday      (]+  Evening star
+     5  Monday      (]+  
+     6  Tuesday     (]   
+     7  Wednesday   (]   
+     8  Thursday    (]   
+     9  Friday      (]   
+    10  Saturday    (    
+
+    11  Sunday      (    
+    12  Monday      (    
+    13  Tuesday      -   
+    14  Wednesday    -   
+    15  Thursday     -   
+    16  Friday       -   Shooting star
+    17  Saturday      )  
+
+    18  Sunday        )  
+    19  Monday        )  
+    20  Tuesday       )  
+    21  Wednesday    [)  
+    22  Thursday     [)  Eclipse of Luna
+    23  Friday       [)  
+    24  Saturday     [)  
+
+    25  Sunday      +[)  
+    26  Monday      +[)  
+    27  Tuesday     +[)  Evening star
+    28  Wednesday   (+)  
+    29  Thursday    (+)  Shooting star
+    30  Friday      (+)  
+
+December
+
+     1  Saturday    (+)  Aurora
+
+     2  Sunday      (]+  
+     3  Monday      (]+  
+     4  Tuesday     (]+  
+     5  Wednesday   (]+  
+     6  Thursday    (]   Shooting star
+     7  Friday      (]   Aurora
+     8  Saturday    (]   
+
+     9  Sunday      (    
+    10  Monday      (    
+    11  Tuesday     (    
+    12  Wednesday   (    Meteor shower
+    13  Thursday     -   Shooting star
+    14  Friday       -   
+    15  Saturday     -   
+
+    16  Sunday       -   Eclipse of Luna
+    17  Monday        )  
+    18  Tuesday       )  
+    19  Wednesday     )  
+    20  Thursday     [)  
+    21  Friday       [)  Evening star
+    22  Saturday     [)  
+
+    23  Sunday       [)  
+    24  Monday      +[)  
+    25  Tuesday     +[)  
+    26  Wednesday   +[)  
+    27  Thursday    +[)  
+    28  Friday      (+)  Meteor shower
+    29  Saturday    (+)  Shooting star
+
+    30  Sunday      (+)  
+    31  Monday      (]+  
+
+
+
+
+Year: 9068
+Moons: Luna
+
+January
+
+     1  Tuesday     (]+  
+     2  Wednesday   (]+  Shooting star
+     3  Thursday    (]   
+     4  Friday      (]   
+     5  Saturday    (]   
+
+     6  Sunday      (]   
+     7  Monday      (    
+     8  Tuesday     (    
+     9  Wednesday   (    Shooting star
+    10  Thursday     -   Evening star
+    11  Friday       -   
+    12  Saturday     -   
+
+    13  Sunday       -   
+    14  Monday        )  
+    15  Tuesday       )  Shooting star
+    16  Wednesday     )  
+    17  Thursday      )  Meteor shower
+    18  Friday       [)  
+    19  Saturday     [)  
+
+    20  Sunday       [)  
+    21  Monday       [)  
+    22  Tuesday     +[)  Evening star
+    23  Wednesday   +[)  
+    24  Thursday    +[)  
+    25  Friday      (+)  
+    26  Saturday    (+)  Wanderers gather
+
+    27  Sunday      (+)  Shooting star
+    28  Monday      (+)  
+    29  Tuesday     (]+  Shooting star
+    30  Wednesday   (]+  
+    31  Thursday    (]+  Meteor shower
+
+February
+
+     1  Friday      (]+  Morning star
+     2  Saturday    (]   
+
+     3  Sunday      (]   Shooting star
+     4  Monday      (]   
+     5  Tuesday     (    
+     6  Wednesday   (    
+     7  Thursday    (    
+     8  Friday      (    
+     9  Saturday     -   
+
+    10  Sunday       -   Shooting star
+    11  Monday       -   
+    12  Tuesday      -   Meteor shower
+    13  Wednesday     )  
+    14  Thursday      )  
+    15  Friday        )  Morning star
+    16  Saturday     [)  Eclipse of Luna
+
+    17  Sunday       [)  
+    18  Monday       [)  
+    19  Tuesday      [)  
+    20  Wednesday   +[)  
+    21  Thursday    +[)  
+    22  Friday      +[)  Shooting star
+    23  Saturday    +[)  
+
+    24  Sunday      (+)  
+    25  Monday      (+)  
+    26  Tuesday     (+)  
+    27  Wednesday   (]+  
+    28  Thursday    (]+  
+
+March
+
+     1  Friday      (]+  
+     2  Saturday    (]+  Wanderers gather
+
+     3  Sunday      (]   Shooting star
+     4  Monday      (]   Morning star
+     5  Tuesday     (]   
+     6  Wednesday   (]   Shooting star
+     7  Thursday    (    
+     8  Friday      (    
+     9  Saturday    (    
+
+    10  Sunday      (    
+    11  Monday       -   
+    12  Tuesday      -   
+    13  Wednesday    -   
+    14  Thursday      )  Shooting star
+    15  Friday        )  
+    16  Saturday      )  
+
+    17  Sunday        )  
+    18  Monday       [)  
+    19  Tuesday      [)  
+    20  Wednesday    [)  
+    21  Thursday     [)  
+    22  Friday      +[)  Shooting star
+    23  Saturday    +[)  Wanderers gather
+
+    24  Sunday      +[)  
+    25  Monday      (+)  
+    26  Tuesday     (+)  
+    27  Wednesday   (+)  Evening star
+    28  Thursday    (+)  
+    29  Friday      (]+  
+    30  Saturday    (]+  Shooting star
+
+    31  Sunday      (]+  Shooting star
+
+April
+
+     1  Monday      (]+  
+     2  Tuesday     (]   Fireball
+     3  Wednesday   (]   
+     4  Thursday    (]   
+     5  Friday      (    Evening star
+     6  Saturday    (    Eclipse of Luna
+
+     7  Sunday      (    
+     8  Monday      (    
+     9  Tuesday      -   
+    10  Wednesday    -   
+    11  Thursday     -   
+    12  Friday       -   
+    13  Saturday      )  
+
+    14  Sunday        )  
+    15  Monday        )  
+    16  Tuesday      [)  
+    17  Wednesday    [)  
+    18  Thursday     [)  
+    19  Friday       [)  
+    20  Saturday    +[)  Fireball
+
+    21  Sunday      +[)  
+    22  Monday      +[)  
+    23  Tuesday     +[)  
+    24  Wednesday   (+)  
+    25  Thursday    (+)  
+    26  Friday      (+)  
+    27  Saturday    (+)  
+
+    28  Sunday      (]+  Morning star
+    29  Monday      (]+  
+    30  Tuesday     (]+  
+
+May
+
+     1  Wednesday   (]   
+     2  Thursday    (]   
+     3  Friday      (]   Morning star
+     4  Saturday    (]   
+
+     5  Sunday      (    
+     6  Monday      (    
+     7  Tuesday     (    
+     8  Wednesday   (    
+     9  Thursday     -   
+    10  Friday       -   Comet appears
+    11  Saturday     -   
+
+    12  Sunday        )  
+    13  Monday        )  
+    14  Tuesday       )  Shooting star
+    15  Wednesday     )  Shooting star
+    16  Thursday     [)  Shooting star
+    17  Friday       [)  
+    18  Saturday     [)  
+
+    19  Sunday       [)  
+    20  Monday      +[)  Morning star
+    21  Tuesday     +[)  Shooting star
+    22  Wednesday   +[)  
+    23  Thursday    (+)  
+    24  Friday      (+)  
+    25  Saturday    (+)  Fireball
+
+    26  Sunday      (+)  
+    27  Monday      (]+  
+    28  Tuesday     (]+  
+    29  Wednesday   (]+  
+    30  Thursday    (]+  
+    31  Friday      (]   Morning star
+
+June
+
+     1  Saturday    (]   
+
+     2  Sunday      (]   
+     3  Monday      (    
+     4  Tuesday     (    
+     5  Wednesday   (    
+     6  Thursday    (    
+     7  Friday       -   
+     8  Saturday     -   
+
+     9  Sunday       -   Wanderers gather
+    10  Monday       -   Fireball
+    11  Tuesday       )  Shooting star
+    12  Wednesday     )  
+    13  Thursday      )  
+    14  Friday        )  
+    15  Saturday     [)  
+
+    16  Sunday       [)  Morning star
+    17  Monday       [)  Shooting star
+    18  Tuesday     +[)  
+    19  Wednesday   +[)  Comet appears
+    20  Thursday    +[)  Shooting star
+    21  Friday      +[)  
+    22  Saturday    (+)  
+
+    23  Sunday      (+)  
+    24  Monday      (+)  Shooting star
+    25  Tuesday     (+)  
+    26  Wednesday   (]+  Shooting star
+    27  Thursday    (]+  
+    28  Friday      (]+  Evening star
+    29  Saturday    (]   Shooting star
+
+    30  Sunday      (]   Shooting star
+
+July
+
+     1  Monday      (]   
+     2  Tuesday     (]   
+     3  Wednesday   (    Shooting star
+     4  Thursday    (    
+     5  Friday      (    Solar eclipse
+     6  Saturday    (    Shooting star
+
+     7  Sunday       -   
+     8  Monday       -   
+     9  Tuesday      -   
+    10  Wednesday     )  
+    11  Thursday      )  
+    12  Friday        )  
+    13  Saturday      )  Eclipse of Luna
+
+    14  Sunday       [)  
+    15  Monday       [)  
+    16  Tuesday      [)  
+    17  Wednesday    [)  Eclipse of Luna
+    18  Thursday    +[)  
+    19  Friday      +[)  
+    20  Saturday    +[)  
+
+    21  Sunday      (+)  
+    22  Monday      (+)  Evening star
+    23  Tuesday     (+)  
+    24  Wednesday   (+)  
+    25  Thursday    (]+  Shooting star
+    26  Friday      (]+  Aurora
+    27  Saturday    (]+  
+
+    28  Sunday      (]+  
+    29  Monday      (]   
+    30  Tuesday     (]   
+    31  Wednesday   (]   
+
+August
+
+     1  Thursday    (]   Shooting star
+     2  Friday      (    Shooting star
+     3  Saturday    (    
+
+     4  Sunday      (    
+     5  Monday       -   
+     6  Tuesday      -   
+     7  Wednesday    -   
+     8  Thursday     -   
+     9  Friday        )  Shooting star
+    10  Saturday      )  
+
+    11  Sunday        )  
+    12  Monday        )  
+    13  Tuesday      [)  
+    14  Wednesday    [)  
+    15  Thursday     [)  
+    16  Friday      +[)  
+    17  Saturday    +[)  Morning star
+
+    18  Sunday      +[)  
+    19  Monday      +[)  
+    20  Tuesday     (+)  
+    21  Wednesday   (+)  
+    22  Thursday    (+)  
+    23  Friday      (+)  
+    24  Saturday    (]+  Aurora
+
+    25  Sunday      (]+  
+    26  Monday      (]+  
+    27  Tuesday     (]   Evening star
+    28  Wednesday   (]   Evening star
+    29  Thursday    (]   
+    30  Friday      (]   
+    31  Saturday    (    
+
+September
+
+     1  Sunday      (    
+     2  Monday      (    
+     3  Tuesday     (    Eclipse of Luna
+     4  Wednesday    -   
+     5  Thursday     -   
+     6  Friday       -   
+     7  Saturday      )  
+
+     8  Sunday        )  
+     9  Monday        )  
+    10  Tuesday       )  
+    11  Wednesday    [)  
+    12  Thursday     [)  
+    13  Friday       [)  
+    14  Saturday     [)  
+
+    15  Sunday      +[)  Evening star
+    16  Monday      +[)  
+    17  Tuesday     +[)  
+    18  Wednesday   (+)  
+    19  Thursday    (+)  
+    20  Friday      (+)  
+    21  Saturday    (+)  
+
+    22  Sunday      (]+  
+    23  Monday      (]+  Shooting star
+    24  Tuesday     (]+  
+    25  Wednesday   (]+  
+    26  Thursday    (]   
+    27  Friday      (]   
+    28  Saturday    (]   
+
+    29  Sunday      (]   
+    30  Monday      (    
+
+October
+
+     1  Tuesday     (    Shooting star
+     2  Wednesday   (    
+     3  Thursday     -   Shooting star
+     4  Friday       -   Solar eclipse
+     5  Saturday     -   
+
+     6  Sunday       -   
+     7  Monday        )  
+     8  Tuesday       )  
+     9  Wednesday     )  
+    10  Thursday      )  
+    11  Friday       [)  Morning star
+    12  Saturday     [)  
+
+    13  Sunday       [)  Shooting star
+    14  Monday      +[)  
+    15  Tuesday     +[)  
+    16  Wednesday   +[)  
+    17  Thursday    +[)  
+    18  Friday      (+)  
+    19  Saturday    (+)  
+
+    20  Sunday      (+)  
+    21  Monday      (+)  
+    22  Tuesday     (]+  
+    23  Wednesday   (]+  
+    24  Thursday    (]+  
+    25  Friday      (]   
+    26  Saturday    (]   
+
+    27  Sunday      (]   
+    28  Monday      (]   Morning star
+    29  Tuesday     (    Shooting star
+    30  Wednesday   (    
+    31  Thursday    (    Shooting star
+
+November
+
+     1  Friday      (    
+     2  Saturday     -   
+
+     3  Sunday       -   
+     4  Monday       -   Morning star
+     5  Tuesday       )  
+     6  Wednesday     )  Fireball
+     7  Thursday      )  
+     8  Friday        )  
+     9  Saturday     [)  Solar eclipse
+
+    10  Sunday       [)  
+    11  Monday       [)  
+    12  Tuesday      [)  
+    13  Wednesday   +[)  
+    14  Thursday    +[)  
+    15  Friday      +[)  
+    16  Saturday    +[)  
+
+    17  Sunday      (+)  
+    18  Monday      (+)  
+    19  Tuesday     (+)  
+    20  Wednesday   (]+  
+    21  Thursday    (]+  
+    22  Friday      (]+  
+    23  Saturday    (]+  Evening star
+
+    24  Sunday      (]   Aurora
+    25  Monday      (]   
+    26  Tuesday     (]   
+    27  Wednesday   (]   
+    28  Thursday    (    
+    29  Friday      (    
+    30  Saturday    (    
+
+December
+
+     1  Sunday       -   
+     2  Monday       -   
+     3  Tuesday      -   Fireball
+     4  Wednesday    -   Fireball
+     5  Thursday      )  
+     6  Friday        )  
+     7  Saturday      )  
+
+     8  Sunday        )  
+     9  Monday       [)  Eclipse of Luna
+    10  Tuesday      [)  Shooting star
+    11  Wednesday    [)  
+    12  Thursday    +[)  Wanderers gather
+    13  Friday      +[)  
+    14  Saturday    +[)  
+
+    15  Sunday      +[)  
+    16  Monday      (+)  Wanderers gather
+    17  Tuesday     (+)  Eclipse of Luna
+    18  Wednesday   (+)  
+    19  Thursday    (+)  
+    20  Friday      (]+  
+    21  Saturday    (]+  Shooting star
+
+    22  Sunday      (]+  
+    23  Monday      (]   
+    24  Tuesday     (]   
+    25  Wednesday   (]   
+    26  Thursday    (]   
+    27  Friday      (    
+    28  Saturday    (    
+
+    29  Sunday      (    
+    30  Monday      (    
+    31  Tuesday      -   
+
+
+
+
+Year: 9069
+Moons: Luna
+
+January
+
+     1  Wednesday    -   
+     2  Thursday     -   
+     3  Friday        )  
+     4  Saturday      )  Aurora
+
+     5  Sunday        )  
+     6  Monday       [)  
+     7  Tuesday      [)  Shooting star
+     8  Wednesday    [)  
+     9  Thursday     [)  
+    10  Friday      +[)  
+    11  Saturday    +[)  
+
+    12  Sunday      +[)  Shooting star
+    13  Monday      +[)  
+    14  Tuesday     (+)  Shooting star
+    15  Wednesday   (+)  
+    16  Thursday    (+)  
+    17  Friday      (]+  
+    18  Saturday    (]+  Shooting star
+
+    19  Sunday      (]+  
+    20  Monday      (]+  
+    21  Tuesday     (]   Eclipse of Luna
+    22  Wednesday   (]   
+    23  Thursday    (]   Morning star
+    24  Friday      (]   
+    25  Saturday    (    
+
+    26  Sunday      (    
+    27  Monday      (    
+    28  Tuesday      -   
+    29  Wednesday    -   
+    30  Thursday     -   
+    31  Friday       -   
+
+February
+
+     1  Saturday      )  
+
+     2  Sunday        )  Evening star
+     3  Monday        )  
+     4  Tuesday       )  
+     5  Wednesday    [)  Shooting star
+     6  Thursday     [)  
+     7  Friday       [)  
+     8  Saturday    +[)  
+
+     9  Sunday      +[)  
+    10  Monday      +[)  
+    11  Tuesday     +[)  Evening star
+    12  Wednesday   (+)  
+    13  Thursday    (+)  Morning star
+    14  Friday      (+)  
+    15  Saturday    (+)  
+
+    16  Sunday      (]+  
+    17  Monday      (]+  Fireball
+    18  Tuesday     (]+  
+    19  Wednesday   (]+  
+    20  Thursday    (]   Shooting star
+    21  Friday      (]   Shooting star
+    22  Saturday    (]   
+
+    23  Sunday      (    
+    24  Monday      (    Shooting star
+    25  Tuesday     (    Evening star
+    26  Wednesday   (    Aurora
+    27  Thursday     -   
+    28  Friday       -   
+
+March
+
+     1  Saturday     -   
+
+     2  Sunday       -   
+     3  Monday        )  
+     4  Tuesday       )  Shooting star
+     5  Wednesday     )  
+     6  Thursday     [)  
+     7  Friday       [)  Solar eclipse
+     8  Saturday     [)  
+
+     9  Sunday       [)  
+    10  Monday      +[)  Fireball
+    11  Tuesday     +[)  
+    12  Wednesday   +[)  
+    13  Thursday    +[)  
+    14  Friday      (+)  
+    15  Saturday    (+)  Morning star
+
+    16  Sunday      (+)  Morning star
+    17  Monday      (]+  
+    18  Tuesday     (]+  
+    19  Wednesday   (]+  
+    20  Thursday    (]+  
+    21  Friday      (]   
+    22  Saturday    (]   
+
+    23  Sunday      (]   Evening star
+    24  Monday      (]   Eclipse of Luna
+    25  Tuesday     (    
+    26  Wednesday   (    
+    27  Thursday    (    
+    28  Friday       -   Morning star
+    29  Saturday     -   
+
+    30  Sunday       -   Meteor shower
+    31  Monday       -   
+
+April
+
+     1  Tuesday       )  
+     2  Wednesday     )  
+     3  Thursday      )  
+     4  Friday        )  
+     5  Saturday     [)  
+
+     6  Sunday       [)  
+     7  Monday       [)  
+     8  Tuesday      [)  
+     9  Wednesday   +[)  Fireball
+    10  Thursday    +[)  
+    11  Friday      +[)  Evening star
+    12  Saturday    (+)  
+
+    13  Sunday      (+)  
+    14  Monday      (+)  
+    15  Tuesday     (+)  
+    16  Wednesday   (]+  
+    17  Thursday    (]+  Evening star
+    18  Friday      (]+  
+    19  Saturday    (]+  
+
+    20  Sunday      (]   
+    21  Monday      (]   
+    22  Tuesday     (]   Fireball
+    23  Wednesday   (    
+    24  Thursday    (    Shooting star
+    25  Friday      (    
+    26  Saturday    (    
+
+    27  Sunday       -   
+    28  Monday       -   
+    29  Tuesday      -   Shooting star
+    30  Wednesday    -   Shooting star
+
+May
+
+     1  Thursday      )  
+     2  Friday        )  Morning star
+     3  Saturday      )  
+
+     4  Sunday       [)  
+     5  Monday       [)  
+     6  Tuesday      [)  
+     7  Wednesday    [)  
+     8  Thursday    +[)  
+     9  Friday      +[)  
+    10  Saturday    +[)  Solar eclipse
+
+    11  Sunday      +[)  
+    12  Monday      (+)  Shooting star
+    13  Tuesday     (+)  Fireball
+    14  Wednesday   (+)  Morning star
+    15  Thursday    (]+  
+    16  Friday      (]+  
+    17  Saturday    (]+  
+
+    18  Sunday      (]+  Shooting star
+    19  Monday      (]   
+    20  Tuesday     (]   
+    21  Wednesday   (]   
+    22  Thursday    (]   
+    23  Friday      (    
+    24  Saturday    (    
+
+    25  Sunday      (    
+    26  Monday       -   
+    27  Tuesday      -   
+    28  Wednesday    -   
+    29  Thursday     -   Comet appears
+    30  Friday        )  
+    31  Saturday      )  
+
+June
+
+     1  Sunday        )  
+     2  Monday        )  
+     3  Tuesday      [)  Evening star
+     4  Wednesday    [)  
+     5  Thursday     [)  
+     6  Friday       [)  
+     7  Saturday    +[)  
+
+     8  Sunday      +[)  
+     9  Monday      +[)  Fireball
+    10  Tuesday     (+)  
+    11  Wednesday   (+)  
+    12  Thursday    (+)  
+    13  Friday      (+)  
+    14  Saturday    (]+  
+
+    15  Sunday      (]+  
+    16  Monday      (]+  
+    17  Tuesday     (]+  
+    18  Wednesday   (]   
+    19  Thursday    (]   Solar eclipse
+    20  Friday      (]   
+    21  Saturday    (    
+
+    22  Sunday      (    
+    23  Monday      (    
+    24  Tuesday     (    
+    25  Wednesday    -   
+    26  Thursday     -   Aurora
+    27  Friday       -   
+    28  Saturday     -   
+
+    29  Sunday        )  Evening star
+    30  Monday        )  Evening star
+
+July
+
+     1  Tuesday       )  
+     2  Wednesday    [)  
+     3  Thursday     [)  
+     4  Friday       [)  
+     5  Saturday     [)  
+
+     6  Sunday      +[)  Eclipse of Luna
+     7  Monday      +[)  
+     8  Tuesday     +[)  
+     9  Wednesday   +[)  
+    10  Thursday    (+)  
+    11  Friday      (+)  
+    12  Saturday    (+)  
+
+    13  Sunday      (]+  
+    14  Monday      (]+  
+    15  Tuesday     (]+  
+    16  Wednesday   (]+  
+    17  Thursday    (]   
+    18  Friday      (]   Evening star
+    19  Saturday    (]   
+
+    20  Sunday      (]   
+    21  Monday      (    
+    22  Tuesday     (    
+    23  Wednesday   (    
+    24  Thursday    (    
+    25  Friday       -   
+    26  Saturday     -   Shooting star
+
+    27  Sunday       -   
+    28  Monday        )  
+    29  Tuesday       )  
+    30  Wednesday     )  
+    31  Thursday      )  
+
+August
+
+     1  Friday       [)  
+     2  Saturday     [)  
+
+     3  Sunday       [)  Shooting star
+     4  Monday       [)  
+     5  Tuesday     +[)  Shooting star
+     6  Wednesday   +[)  Solar eclipse
+     7  Thursday    +[)  
+     8  Friday      (+)  
+     9  Saturday    (+)  
+
+    10  Sunday      (+)  
+    11  Monday      (+)  
+    12  Tuesday     (]+  
+    13  Wednesday   (]+  Morning star
+    14  Thursday    (]+  
+    15  Friday      (]+  Shooting star
+    16  Saturday    (]   
+
+    17  Sunday      (]   
+    18  Monday      (]   
+    19  Tuesday     (    
+    20  Wednesday   (    
+    21  Thursday    (    
+    22  Friday      (    
+    23  Saturday     -   
+
+    24  Sunday       -   
+    25  Monday       -   
+    26  Tuesday      -   
+    27  Wednesday     )  
+    28  Thursday      )  
+    29  Friday        )  
+    30  Saturday     [)  Morning star
+
+    31  Sunday       [)  Shooting star
+
+September
+
+     1  Monday       [)  
+     2  Tuesday      [)  Shooting star
+     3  Wednesday   +[)  
+     4  Thursday    +[)  
+     5  Friday      +[)  
+     6  Saturday    +[)  Morning star
+
+     7  Sunday      (+)  
+     8  Monday      (+)  Fireball
+     9  Tuesday     (+)  
+    10  Wednesday   (+)  
+    11  Thursday    (]+  Solar eclipse
+    12  Friday      (]+  
+    13  Saturday    (]+  
+
+    14  Sunday      (]   
+    15  Monday      (]   
+    16  Tuesday     (]   
+    17  Wednesday   (]   
+    18  Thursday    (    
+    19  Friday      (    
+    20  Saturday    (    
+
+    21  Sunday      (    
+    22  Monday       -   
+    23  Tuesday      -   
+    24  Wednesday    -   
+    25  Thursday      )  Evening star
+    26  Friday        )  Aurora
+    27  Saturday      )  
+
+    28  Sunday        )  
+    29  Monday       [)  
+    30  Tuesday      [)  
+
+October
+
+     1  Wednesday    [)  
+     2  Thursday     [)  
+     3  Friday      +[)  
+     4  Saturday    +[)  
+
+     5  Sunday      +[)  Fireball
+     6  Monday      (+)  Fireball
+     7  Tuesday     (+)  
+     8  Wednesday   (+)  
+     9  Thursday    (+)  
+    10  Friday      (]+  
+    11  Saturday    (]+  Eclipse of Luna
+
+    12  Sunday      (]+  Shooting star
+    13  Monday      (]+  
+    14  Tuesday     (]   Wanderers gather
+    15  Wednesday   (]   
+    16  Thursday    (]   
+    17  Friday      (    
+    18  Saturday    (    Wanderers gather
+
+    19  Sunday      (    Eclipse of Luna
+    20  Monday      (    
+    21  Tuesday      -   
+    22  Wednesday    -   
+    23  Thursday     -   Shooting star
+    24  Friday       -   
+    25  Saturday      )  
+
+    26  Sunday        )  
+    27  Monday        )  
+    28  Tuesday       )  
+    29  Wednesday    [)  
+    30  Thursday     [)  
+    31  Friday       [)  
+
+November
+
+     1  Saturday    +[)  
+
+     2  Sunday      +[)  
+     3  Monday      +[)  
+     4  Tuesday     +[)  
+     5  Wednesday   (+)  Comet appears
+     6  Thursday    (+)  Morning star
+     7  Friday      (+)  
+     8  Saturday    (+)  
+
+     9  Sunday      (]+  Evening star
+    10  Monday      (]+  
+    11  Tuesday     (]+  Evening star
+    12  Wednesday   (]   
+    13  Thursday    (]   
+    14  Friday      (]   
+    15  Saturday    (]   Fireball
+
+    16  Sunday      (    Evening star
+    17  Monday      (    
+    18  Tuesday     (    
+    19  Wednesday   (    Fireball
+    20  Thursday     -   Evening star
+    21  Friday       -   
+    22  Saturday     -   Shooting star
+
+    23  Sunday        )  
+    24  Monday        )  Evening star
+    25  Tuesday       )  
+    26  Wednesday     )  Fireball
+    27  Thursday     [)  
+    28  Friday       [)  Evening star
+    29  Saturday     [)  
+
+    30  Sunday       [)  Shooting star
+
+December
+
+     1  Monday      +[)  
+     2  Tuesday     +[)  
+     3  Wednesday   +[)  Evening star
+     4  Thursday    (+)  
+     5  Friday      (+)  
+     6  Saturday    (+)  
+
+     7  Sunday      (+)  
+     8  Monday      (]+  
+     9  Tuesday     (]+  
+    10  Wednesday   (]+  
+    11  Thursday    (]+  Meteor shower
+    12  Friday      (]   
+    13  Saturday    (]   
+
+    14  Sunday      (]   
+    15  Monday      (]   Fireball
+    16  Tuesday     (    
+    17  Wednesday   (    
+    18  Thursday    (    Wanderers gather
+    19  Friday       -   
+    20  Saturday     -   Fireball
+
+    21  Sunday       -   Shooting star
+    22  Monday       -   Eclipse of Luna
+    23  Tuesday       )  
+    24  Wednesday     )  
+    25  Thursday      )  
+    26  Friday        )  Evening star
+    27  Saturday     [)  Shooting star
+
+    28  Sunday       [)  
+    29  Monday       [)  Evening star
+    30  Tuesday     +[)  Meteor shower
+    31  Wednesday   +[)  
+
+
